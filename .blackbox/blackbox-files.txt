@@ -1,1 +1,2 @@
 myFirstSecret.txt
+vault_pass

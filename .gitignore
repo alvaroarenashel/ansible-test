@@ -3,3 +3,4 @@
 /.blackbox/secring.gpg
 .blackbox/.gitattributes
 /myFirstSecret.txt
+/vault_pass
