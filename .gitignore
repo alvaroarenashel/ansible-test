@@ -4,3 +4,4 @@
 .blackbox/.gitattributes
 /myFirstSecret.txt
 /vault_pass
+/blackbox-test-file.txt
