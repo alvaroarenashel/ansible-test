@@ -5,6 +5,8 @@ Ansible script test
 1. Install blackbox
 - Follow the instructions in https://github.com/StackExchange/blackbox#installation-instructions
 - Generate a GPG key https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key
+- Give your key to someone who can add you to the system
+- Test with the blackbox-test-file.txt encryption/decryption
 
 2. Decript the vault_pass file
 
