@@ -1,0 +1,4 @@
+- name: Create configuration from template using variables and secrets
+  template:
+    src: configuration.conf.j2
+    dest: ./output/config.conf

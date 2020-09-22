@@ -1,0 +1,4 @@
+- hosts: keycloak_servers
+
+  roles:
+    - role: config

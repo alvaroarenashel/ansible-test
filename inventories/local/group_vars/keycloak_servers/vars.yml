@@ -1,0 +1,3 @@
+noSecret: "This is no secret"
+keycloak:
+  version: "11.0.2"
